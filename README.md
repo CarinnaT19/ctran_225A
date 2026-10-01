@@ -1,4 +1,4 @@
-# ctran_225A_discussionsection1
+# Carinna Tran BMS 225A
 
 # this is my first repository
 
